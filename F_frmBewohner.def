@@ -16,7 +16,7 @@ End Sub
 Private Sub btnLoeschen_Click()
 
 
-    If newRecord = True Then
+    If NewRecord = True Then
         DoCmd.Restore
         Form.Undo
 

@@ -733,6 +733,9 @@ Begin Form
                     RowSource ="SELECT [tblVeranstaltung].[idVeranstaltung], [tblVeranstaltung].[txtVeranstaltun"
                         "gName] FROM tblVeranstaltung; "
                     ColumnWidths ="0;1440"
+                    BaseInfo ="\"SELECT [tblVeranstaltung].[idVeranstaltung], [tblVeranstaltung].[txtVeranstalt"
+                        "ungName] FROM tblVeranstaltung; \";\"tblVeranstaltung\";\"\";\"idVeranstaltung\""
+                        ";\"txtVeranstaltungName\";\"PrimaryKey\""
                     GroupTable =1
                     BottomPadding =150
                     GridlineColor =10921638

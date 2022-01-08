@@ -10,8 +10,8 @@ Begin Form
     Width =17007
     DatasheetFontHeight =11
     ItemSuffix =40
-    Right =25080
-    Bottom =11685
+    Right =14033
+    Bottom =10695
     DatasheetGridlinesColor =15132391
     RecordSource ="tblVeranstaltung"
     DatasheetFontName ="Calibri"
@@ -500,7 +500,8 @@ Begin Form
                     ForeColor =4210752
                     Name ="dateVeranstaltungAnfang"
                     ControlSource ="dateVeranstaltungAnfang"
-                    InputMask ="00:00;0;_"
+                    Format ="Short Time"
+                    InputMask ="00:00;"
                     GroupTable =1
                     BottomPadding =150
                     GridlineColor =10921638
@@ -562,6 +563,7 @@ Begin Form
                     ForeColor =4210752
                     Name ="dateVeranstaltungEnde"
                     ControlSource ="dateVeranstaltungEnde"
+                    Format ="Short Time"
                     InputMask ="00:00;0;_"
                     GroupTable =1
                     BottomPadding =150

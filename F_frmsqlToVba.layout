@@ -164,6 +164,8 @@ Begin Form
             Begin
                 Begin Tab
                     OverlapFlags =85
+                    TextFontCharSet =177
+                    TextFontFamily =0
                     Top =735
                     Width =9015
                     Height =6062

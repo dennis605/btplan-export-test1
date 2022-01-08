@@ -16,7 +16,7 @@
     <Field_0 name="ID">
       <Value name="Value" type="4"/>
       <Attributes name="Attributes" type="4" value="17"/>
-      <CollatingOrder name="CollatingOrder" type="3" value="1033"/>
+      <CollatingOrder name="CollatingOrder" type="3" value="1024"/>
       <Type name="Type" type="3" value="4"/>
       <Name name="Name" type="12" value="ID"/>
       <OrdinalPosition name="OrdinalPosition" type="3" value="0"/>
@@ -37,7 +37,7 @@
       <OriginalValue name="OriginalValue" type="4"/>
       <VisibleValue name="VisibleValue" type="4"/>
       <ColumnWidth name="ColumnWidth" type="3" value="-1"/>
-      <ColumnOrder name="ColumnOrder" type="3" value="0"/>
+      <ColumnOrder name="ColumnOrder" type="3" value="1"/>
       <ColumnHidden name="ColumnHidden" type="1" value="False"/>
       <TextAlign name="TextAlign" type="2" value="0"/>
       <AggregateType name="AggregateType" type="4" value="-1"/>

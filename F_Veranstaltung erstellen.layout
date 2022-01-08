@@ -246,6 +246,7 @@ Begin Form
                     Name ="fldVeranstaltungAnfang"
                     ControlSource ="dateVeranstaltungAnfang"
                     Format ="Short Time"
+                    InputMask ="00:00;"
                     GroupTable =2
                     BottomPadding =150
                     GridlineColor =10921638

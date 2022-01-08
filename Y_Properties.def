@@ -20,7 +20,7 @@
     <NavPaneClosed name="NavPane Closed" type="4" value="0" sort="1"/>
     <NavPaneSortBy name="NavPane Sort By" type="4" value="1" sort="1"/>
     <NavPaneViewBy name="NavPane View By" type="4" value="0" sort="1"/>
-    <NavPaneWidth name="NavPane Width" type="4" value="496" sort="1"/>
+    <NavPaneWidth name="NavPane Width" type="4" value="605" sort="1"/>
     <NeverCache name="Never Cache" type="4" value="0" sort="1"/>
     <PicturePropertyStorageFormat name="Picture Property Storage Format" type="4" value="0" sort="1"/>
     <ProjVer name="ProjVer" type="3" value="142" sort="1"/>
@@ -59,7 +59,7 @@
     <Reference>
       <Name value="DAO 12.0"/>
       <FullPath value="%CommonProgramFiles%\Microsoft Shared\OFFICE16\ACEDAO.DLL"/>
-      <Position value="4"/>
+      <Position value="3"/>
       <GUID value="{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}"/>
       <Major value="12"/>
       <Minor value="0"/>
@@ -67,15 +67,15 @@
     <Reference>
       <Name value="MSComctlLib 2.2"/>
       <FullPath value="C:\Windows\System32\MSCOMCTL.OCX"/>
-      <Position value="5"/>
+      <Position value="4"/>
       <GUID value="{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}"/>
       <Major value="2"/>
       <Minor value="2"/>
     </Reference>
     <Reference>
       <Name value="stdole 2.0"/>
-      <FullPath value="C:\Windows\System32\stdole2.tlb"/>
-      <Position value="3"/>
+      <FullPath value="C:\Windows\SysArm32\stdole2.tlb"/>
+      <Position value="5"/>
       <GUID value="{00020430-0000-0000-C000-000000000046}"/>
       <Major value="2"/>
       <Minor value="0"/>
